@@ -19,8 +19,7 @@ ASP.NET 웹 응용프로그램의 경우는 기본적으로 .NET 프레임워크
 
 다만, Java 웹 응용프로그램의 경우에는 별도의 Session State Provider가 존재하지 않기에 오픈소스에서 지원되는 기술들을 검토해 보아야 합니다. Tomcat 서버를 사용하는 경우에는 Memcached Session Manager라는 모듈을 사용하여 고가용성을 확보할 수 있습니다. Memcached Session Manager는 memcached 기술을 사용한 고가용성 클러스터입니다. 이를 사용하여 상태를 관리하는 방안은 다음 링크들을 참고하시기 바랍니다.
 
-> https://code.google.com/archive/p/memcached-session-manager/
-
+> https://code.google.com/archive/p/memcached-session-manager/  
 > https://github.com/magro/memcached-session-manager 
 
 반드시 이러한 기술을 사용해야만 하는 것은 아닙니다. 이미 여러분의 온-프레미스에서 상태 서버를 관리 및 운용하고 있다면 그를 Azure에 가상 컴퓨터(VM)으로 구성하여 여전히 활용할 수 있습니다. 
