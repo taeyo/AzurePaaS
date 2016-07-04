@@ -9,5 +9,6 @@
 
 1. [In-Proc 세션은 사용하지 마십시오](/1.DonotUseInProcSession/) 
 2. [SQL 서버에서 Windows 인증을 사용하지 마십시오](/2.DonotUseWindowsAuthOnSQLServer/)
+3. [3. Windows 서비스를 사용하고 있었다면 대안을 찾아야 합니다](/3.YouNeedAlternativeForWindowService/)
 
 
