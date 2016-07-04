@@ -9,7 +9,8 @@
 > https://azure.microsoft.com/ko-kr/documentation/articles/storage-dotnet-how-to-use-blobs/  
 > https://azure.microsoft.com/ko-kr/documentation/articles/storage-java-how-to-use-blob-storage/ 
 
-웹 응용프로그램에서 Azure Blob으로 파일을 저장하고 불러오는 예제(HTML Form 버전과 Javascript Ajax 버전)를 참고삼아 만들어 두었습니다. 관련 샘플이 필요하신 분은 다음 링크의 예제를 확인해 보시기 바랍니다. 
+
+추가적으로, 참고할 만한 예제로써 웹 응용프로그램에서 Azure Blob으로 파일을 저장하고 불러오는 예제(HTML Form 버전과 Javascript Ajax 버전)를 만들어 보았습니다. 관련 샘플이 필요하신 분은 다음 링크의 예제를 확인해 보시기 바랍니다. 
 
 Azure 파일 업로드     
 https://github.com/jiyongseong/AzurePaaSHol/tree/master/AzureFileUploadWeb
