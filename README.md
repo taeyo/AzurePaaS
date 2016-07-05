@@ -13,9 +13,12 @@
 4. [파일 업로드를 서버의 로컬 경로에 하면 안됩니다](/4.FileUpload/)
 5. [설치형 3rd-party 컴포넌트는 사용할 수 없습니다](/5.CannotInstall3rdControls/)
 6. [응용프로그램에 맞게 지원되는 적절한 플랫폼을 선택해야 합니다](/6.CheckSupportedApplicationPlatform/)
-
-
-
+7. [인증과 권한 허가에 대해 고려해야 합니다](/7.ThinkAboutAuthS/)
+8.  
+9.  
+10. 
+11. 
+    
 
 > 참고 문서     
 __Top 10 things while migrating existing Web Applications to Azure__
