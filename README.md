@@ -12,4 +12,4 @@
 3. [Windows 서비스를 사용하고 있었다면 대안을 찾아야 합니다](/3.YouNeedAlternativeForWindowService/)
 4. [파일 업로드를 서버의 로컬 경로에 하면 안됩니다](/4.FileUpload/)
 5. [설치형 3rd-party 컴포넌트는 사용할 수 없습니다](/5.CannotInstall3rdControls/)
-
+6. [응용프로그램에 맞게 지원되는 적절한 플랫폼을 선택해야 합니다](/6.CheckSupportedApplicationPlatform/)
