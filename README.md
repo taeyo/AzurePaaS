@@ -14,7 +14,7 @@
 5. [설치형 3rd-party 컴포넌트는 사용할 수 없습니다](/5.CannotInstall3rdControls/)
 6. [응용프로그램에 맞게 지원되는 적절한 플랫폼을 선택해야 합니다](/6.CheckSupportedApplicationPlatform/)
 7. [인증과 권한 허가에 대해 고려해야 합니다](/7.ThinkAboutAuthS/)
-8.  
+8. [SSL을 제공해야 합니다](/8.UseSSL/)
 9.  
 10. 
 11. 
