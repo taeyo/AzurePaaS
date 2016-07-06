@@ -15,7 +15,7 @@
 6. [응용프로그램에 맞게 지원되는 적절한 플랫폼을 선택해야 합니다](/6.CheckSupportedApplicationPlatform/)
 7. [인증과 권한 허가에 대해 고려해야 합니다](/7.ThinkAboutAuthS/)
 8. [SSL을 제공해야 합니다](/8.UseSSL/)
-9.  
+9. [Scale-up이 아닌 Scale-out을 고려하십시오](/9.ScaleOutInsteadOfScaleUp/) 
 10. 
 11. 
     
