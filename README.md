@@ -16,7 +16,7 @@
 7. [인증과 권한 허가에 대해 고려해야 합니다](/7.ThinkAboutAuthS/)
 8. [SSL을 제공해야 합니다](/8.UseSSL/)
 9. [Scale-up이 아닌 Scale-out을 고려하십시오](/9.ScaleOutInsteadOfScaleUp/) 
-10. 
+10. [서버의 UTC 시간을 고려하십시오](/10.UTCTimezone/)
 11. 
     
 
