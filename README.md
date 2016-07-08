@@ -17,8 +17,9 @@
 8. [SSL을 제공해야 합니다](/8.UseSSL/)
 9. [Scale-up이 아닌 Scale-out을 고려해야 해요](/9.ScaleOutInsteadOfScaleUp/) 
 10. [서버의 UTC 시간을 고려해야 해요](/10.UTCTimezone/)
-11. 
-     
+11. [WebApp은 인바운드 IP와 아웃바운드 IP가 다릅니다](/11.InboundIPNotSameOutboundIP/)
+
+
   
 > 참고 문서     
 __Top 10 things while migrating existing Web Applications to Azure__    
