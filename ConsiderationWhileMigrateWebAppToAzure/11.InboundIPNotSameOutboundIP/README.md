@@ -6,7 +6,7 @@ Azure WebApp에서는 인바운드 IP와 아웃바운드 IP가 다릅니다. 동
 
 WebApp의 아웃바운드 IP 주소는 다음과 같이 속성 메뉴에서 확인이 가능합니다.
 
-![참고 이미지](https://github.com/taeyo/AzurePaaS/blob/master/Images/webappOutboundIP.png)
+![참고 이미지](images/webappOutboundIP.png)
 
 다만, 이러한 아웃바운드 IP는 App Service Plan이 변경될 경우, 그에 따라 변경될 가능성이 높기에 주의해야 합니다. 또한, 그 외에도 알아두면 좋을만한 내용이 다음 문서에서 언급되고 있으니 참고하시기 바랍니다.
 
