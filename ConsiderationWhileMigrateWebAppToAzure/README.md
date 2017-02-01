@@ -18,7 +18,7 @@
 09. [Scale-up이 아닌 Scale-out을 고려해야 해요](9.ScaleOutInsteadOfScaleUp/) 
 10. [서버의 UTC 시간을 고려해야 해요](10.UTCTimezone/)
 11. [WebApp은 인바운드 IP와 아웃바운드 IP가 다릅니다](11.InboundIPNotSameOutboundIP/)
-12. [HTML을 PDF로 변환하는 데에 제약이 있습니다](12.html2pdf)
+12. [HTML을 PDF로 변환하는 데에 제약이 있습니다](12.Html2Pdf)
 
 > 참고 문서     
 > __Top 10 things while migrating existing Web Applications to Azure__    
